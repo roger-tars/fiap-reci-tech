@@ -1,2 +1,1 @@
-# fiap-reci-tech
-Atividade Substitutiva Global Solution 
+# Substitutiva Global Solution - ReciTech
